@@ -15,7 +15,7 @@ import com.cognixia.jump.model.Employee;
 @Service
 public class EmployeeService {
 
-	// "mock" database for students
+	// "mock" database for employees
 	private static List<Employee> employeeDatabase = new ArrayList<>();
 	private static int idCounter = 1;
 
